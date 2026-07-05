@@ -104,10 +104,10 @@ html[data-theme="light"] .map-art .label{fill:rgba(0,0,0,.42)}
   </style>
 </head>
 <body>
-  <div id="siteTop" aria-hidden="true"></div>
+  <div id="top" aria-hidden="true" style="position:absolute;top:0;left:0;width:1px;height:1px;"></div>
   <div class="noise"></div>
   <header class="site-header">
-    <a class="brand" href="#" data-scroll-top aria-label="Home">
+    <a class="brand" href="#top" data-scroll-top aria-label="Home">
       <span class="brand-mark">GC</span>
       <span class="brand-text">George-Marius Cracu</span>
     </a>
@@ -346,7 +346,19 @@ let observer;function observe(){if(observer)document.querySelectorAll('.reveal')
 observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.12});
 document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 window.addEventListener('scroll',()=>document.querySelector('.site-header').classList.toggle('scrolled',window.scrollY>30));
-document.querySelectorAll('[data-scroll-top]').forEach(link=>{link.addEventListener('click',(event)=>{event.preventDefault();history.replaceState(null,'',window.location.pathname);window.scrollTo({top:0,left:0,behavior:'smooth'});});});
+
+function goToTop(event){
+  if(event) event.preventDefault();
+  if(history.replaceState){history.replaceState(null,'',window.location.pathname + window.location.search);}
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+  window.scrollTo(0,0);
+  requestAnimationFrame(()=>window.scrollTo({top:0,left:0,behavior:'smooth'}));
+}
+document.querySelectorAll('.brand,[data-scroll-top]').forEach(el=>{
+  el.addEventListener('click', goToTop, {passive:false});
+});
+
 langBtn.addEventListener('click',()=>{state.lang=state.lang==='ro'?'en':'ro';applyLang()});themeBtn.addEventListener('click',()=>{state.theme=state.theme==='dark'?'light':'dark';setTheme()});
 setTheme();applyLang();initMap();
 
