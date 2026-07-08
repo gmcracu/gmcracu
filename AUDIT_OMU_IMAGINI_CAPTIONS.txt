@@ -1,0 +1,54 @@
+seq	file	caption
+1	aventura-e-gata-sa-inceapa.jpeg	Aventura e gata să înceapă!
+2	in-telecabina-spre-sinaia-cota-2000.jpeg	În telecabină, spre Sinaia Cota 2000
+3	grupul-de-geomontisti-la-sinaia-cota-2000.jpeg	Grupul de geomontiști, la Sinaia Cota 2000
+4	coborarea-de-pe-vf-furnica-2103-m-alt-si-plaiurile-largi-ale-platoului-bucegean.jpeg	Coborârea de pe Vf. Furnica (2103 m alt.) și plaiurile largi ale platoului bucegean
+5	in-pas-domol-spre-piatra-arsa.jpeg	În pas domol, spre Piatra Arsă
+6	de-pe-platoul-bucegilor-spre-piatra-mare-si-muntii-baiului.jpeg	De pe platoul Bucegilor, spre Piatra Mare și Munții Baiului
+7	in-fata-noastra-se-aliniaza-marile-inaltimi-ale-bucegilor.jpeg	În fața noastră se aliniază marile înălțimi ale Bucegilor
+8	continuam-spre-piatra-arsa-pe-o-panta-relativ-domoala.jpeg	Continuăm spre Piatra Arsă, pe o pantă relativ domoală
+9	de-la-piatra-arsa-prindem-traseul-marcat-cu-banda-albastra-spre-pestera.jpeg	De la Piatra Arsă, prindem traseul marcat cu bandă albastră, spre Peștera
+10	geomont-omu-010.jpeg	
+11	geomont-omu-011.jpeg	
+12	geomont-omu-012.jpeg	
+13	geomont-omu-013.jpeg	
+14	geomont-omu-014.jpeg	
+15	geomont-omu-015.jpeg	
+16	coboram-cu-drag-si-spor.jpeg	Coborâm cu drag și spor
+17	geomont-omu-017.jpeg	
+18	prin-galerii-si-grote.jpeg	Prin galerii și grote
+19	in-sala-mare-a-pesterii-ialomitei.jpeg	În Sala Mare a Peșterii Ialomiței
+20	geomontistii-la-pestera-ialomitei.jpeg	Geomontiștii la Peștera Ialomiței
+21	cu-anul-3.jpeg	Cu anul 3
+22	intersectie-de-trasee-in-zona-pestera.jpeg	Intersecție de trasee în zona Peștera
+23	de-aici-incepe-urcarea-adevarata.jpeg	De aici începe urcarea adevărată
+24	haide-haide.jpeg	Haide, haide!
+25	din-acea-directie-venim-se-vad-frumos-si-sectoarele-de-chei-din-lungul-ialomitei.jpeg	Din acea direcție venim. Se văd frumos și sectoarele de chei din lungul Ialomiței
+26	geomont-omu-026.jpeg	
+27	geomont-omu-027.jpeg	
+28	geomont-omu-028.jpeg	
+29	geomont-omu-029.jpeg	
+30	geomont-omu-030.jpeg	
+31	geomont-omu-031.jpeg	
+32	geomont-omu-032.jpeg	
+33	cascada-ialomitei.jpeg	Cascada Ialomiței
+34	brecie-cu-elemente-calcaroase-angulare-prinse-intr-o-matrice-grezoasa.jpeg	Brecie cu elemente calcaroase angulare, prinse într-o matrice grezoasă
+35	geomont-omu-035.jpeg	
+36	urmeaza-o-portiune-mai-abrupta.jpeg	Urmează o porțiune mai abruptă...
+37	pe-acolo-am-urcat.jpeg	Pe acolo am urcat
+38	pe-un-sector-al-traseului-mai-putin-inclinat-cu-mecetul-turcesc-in-fata-separand-cele-doua.jpeg	Pe un sector al traseului mai puțin înclinat, cu Mecetul Turcesc în față, separând cele două circuri glaciare ale Ialomiței
+39	mecetul-turcesc.jpeg	Mecetul Turcesc
+40	geomont-omu-040.jpeg	
+41	geomont-omu-041.jpeg	
+42	valea-gaura.jpeg	Valea Gaura
+43	geomont-omu-043.jpeg	
+44	spre-depresiunea-brasovului-si-magura-codlei.jpeg	Spre Depresiunea Brașovului și Măgura Codlei
+45	spre-penteleu-ciucas-baiului.jpeg	Spre Penteleu, Ciucaș, Baiului
+46	spre-cozia-si-buila.jpeg	Spre Cozia și Buila
+47	geomontistii-in-premiera-pe-vf-omu.jpeg	Geomontiștii în premieră pe Vf. Omu
+48	spre-costila-se-vede-putin-si-din-poteca-de-vara-spre-babele-acoperita-partial-de-zapada.jpeg	Spre Coștila. Se vede puțin și din poteca de vară spre Babele, acoperită parțial de zăpadă
+49	in-coborare.jpeg	În coborâre...
+50	prin-padure-pe-carare.jpeg	Prin pădure, pe cărare...
+51	zona-sinaia-cota-1400.jpeg	Zona Sinaia Cota 1400
+52	castelul-peles.jpeg	Castelul Peleș
+53	geomontindeplasare.jpeg	#GeomontÎnDeplasare
