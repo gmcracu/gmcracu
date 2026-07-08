@@ -1,0 +1,120 @@
+seq	file	caption
+0	amintiri-din-aplicatiile-marca-geomontindeplasare.jpg	Amintiri din aplicațiile marca #GeomontÎnDeplasare
+1	afisul-sedintei-inaugurale.jpg	Afișul ședinței inaugurale
+2	membrii-fondatori.jpg	Membrii fondatori
+3	geomont-004.jpg	
+4	geomont-005.jpg	
+5	sigla-geomont.png	Sigla GEOMONT
+6	anuntul-excursiei-de-iarna-2018.jpg	Anunțul excursiei de iarnă 2018
+7	pe-partia-kalinderu-din-busteni.jpg	Pe pârtia Kalinderu din Bușteni
+8	tot-pe-partia-kalinderu-din-busteni-pregatiti-pentru-o-noua-tura-de-sanius.jpg	Tot pe pârtia Kalinderu din Bușteni, pregătiți pentru o nouă tură de săniuș
+9	geomont-010.jpg	
+10	spre-poiana-stanii-regale.jpg	Spre Poiana Stânii Regale
+11	geomont-012.jpg	
+12	da-iubim-geografia.jpg	Da, Iubim Geografia!
+13	geomont-014.jpg	
+14	geomont-015.jpg	
+15	in-gara-din-busteni-la-finalul-drumetiei.jpg	În gara din Bușteni, la finalul drumeției
+16	in-pas-lejer-pe-strada-principala-din-moieciu-de-sus.jpg	În pas lejer, pe strada principală din Moieciu de Sus
+17	aici-incepea-urcusul.jpg	Aici începea urcușul...
+18	peisaj-tipic-regiunii-moieciu-de-sus-cu-muntii-bucegi-pe-fundal.jpg	Peisaj tipic regiunii Moieciu de Sus, cu Munții Bucegi pe fundal
+19	geomont-020.jpg	
+20	geomont-021.jpg	
+21	pauza-de-respiro-si-admirat-peisajele.jpg	Pauză de respiro și admirat peisajele
+22	geomont-023.jpg	
+23	poza-de-grup-la-stanca.jpg	Poză de grup La Stâncă
+24	tur-de-orizont-cu-explicatii-geografice.jpg	Tur de orizont cu explicații geografice
+25	plimbare-prin-primavara.jpg	Plimbare prin primăvară
+26	sarbatorim-centenarul-marii-uniri.jpg	Sărbătorim Centenarul Marii Uniri
+27	geomont-028.jpg	
+28	cred-ca-a-picat-dupa-ce-am-facut-poza.jpg	Cred că a picat după ce am făcut poza
+29	am-fost-trupa-numeroasa.jpg	Am fost trupă numeroasă...
+30	geomont-031.jpg	
+31	geomont-032.jpg	
+32	geomont-033.jpg	
+33	geomont-034.jpg	
+34	geomont-035.jpg	
+35	geomont-036.jpg	
+36	geomont-037.jpg	
+37	geomont-038.jpg	
+38	geomont-039.jpg	
+39	geomont-040.jpg	
+40	in-sir-indian-spre-culmea-pricopanului.jpg	În șir indian, spre Culmea Pricopanului
+41	geomont-042.jpg	
+42	geomont-043.jpg	
+43	geomont-044.jpg	
+44	geomont-045.jpg	
+45	geomont-046.jpg	
+46	geomont-047.jpg	
+47	geomont-048.jpg	
+48	geomont-049.jpg	
+49	poza-de-grup-in-poiana-maicilor.jpg	Poză de grup în Poiana Maicilor
+50	geomont-051.jpg	
+51	geomont-052.jpg	
+52	peisaj-vazut-din-fata-cabanei-dochia.jpg	Peisaj văzut din fața cabanei Dochia
+53	incercam-sa-coboram-spre-cascada-duruitoarea-dar-ploaia-si-zapada-de-pe-traseu-ne-au-intor.jpg	Încercam să coborâm spre cascada Duruitoarea, dar ploaia și zăpada de pe traseu ne-au întors din drum
+54	geomont-055.jpg	
+55	selfie-cu-vf-toaca-pe-fundal.jpg	Selfie cu Vf. Toaca pe fundal
+56	norii-faceau-spectacol-in-jurul-nostru-pe-vf-toaca.jpg	Norii făceau spectacol în jurul nostru. Pe Vf. Toaca
+57	geomont-058.jpg	
+58	geomont-059.jpg	
+59	geomont-060.jpg	
+60	in-drum-spre-cabana-diham.jpg	
+61	in-fata-cabanei-diham.jpg	În fața cabanei Diham
+62	o-pauza-binemeritata-la-cabana-diham.jpg	O pauză binemeritată la cabana DIham
+63	in-fata-cabanei-garbova-2.jpg	În fața cabanei Gârbova
+64	geomont-065.jpg	
+65	geomont-066.jpg	
+66	asteptand-trenul-de-constanta-in-gara-din-busteni.jpg	Așteptând trenul de Constanța, în gara din Bușteni
+67	geomont-068.jpg	
+68	cu-greu-gasesti-peisaje-mai-faine-decat-acesta.jpg	Cu greu găsești peisaje mai faine decât acesta...
+69	sau-decat-acesta.jpg	Sau decât acesta...
+70	geomont-071.jpg	
+71	geomont-072.jpg	
+72	in-clai-de-fan-miroase-a-foc-de-floare.jpg	În clăi de fân miroase-a foc de floare...
+73	in-clai-de-fan-miroase-a-foc-de-floare-2.jpg	În clăi de fân miroase-a foc de floare...
+74	geomont-075.jpg	
+75	poza-de-grup-pe-culmea-bisericutei.jpg	Poză de grup pe Culmea Bisericuței
+76	geomont-077.jpg	
+77	geomont-078.jpg	
+78	pentru-a-doua-oara-la-cabana-diham.jpg	Pentru a doua oară la cabana Diham
+79	selfie-la-stancile-franz-joseph-2.jpg	Selfie la stâncile Franz Joseph
+80	selfie-la-stancile-franz-joseph.jpg	
+81	geomont-082.jpg	
+82	geomont-083.jpg	
+83	si-ploua-ploua-ploua.jpg	Și plouă, plouă, plouă...
+84	si-tot-ploua-ploua-ploua.jpg	Și tot plouă, plouă, plouă...
+85	dar-tot-merge-un-selfie.jpg	Dar tot merge un selfie!
+86	a-doua-zi-de-data-asta-spre-ciucas-pe-o-vreme-mult-mai-buna.jpg	A doua zi, de data asta spre Ciucaș, pe o vreme mult mai bună
+87	poza-de-grup-la-muntele-rosu.jpg	Poză de grup la Muntele Roșu
+88	geomont-089.jpg	
+89	geomont-090.jpg	
+90	geomont-091.jpg	
+91	geomont-092.jpg	
+92	geomont-093.jpg	
+93	geomont-094.jpg	
+94	coborand-spre-piatra-arsa.jpg	Coborând spre Piatra Arsă
+95	de-la-piatra-arsa-catre-pestera-ialomitei.jpg	De la Piatra Arsă, către Peștera Ialomiței
+96	in-fata-cabanei-padina-pregatiti-de-ascensiunea-pe-vf-omu.jpg	În fața cabanei Padina, pregătiți de ascensiunea pe Vf. Omu
+97	si-da-i-si-urca.jpg	Și dă-i, și urcă!
+98	oare-a-meritat-hmm.jpg	Oare a meritat? Hmm...
+99	poza-de-grup-in-premiera-pe-vf-omu.jpg	Poză de grup, în premieră pe Vf. Omu
+100	la-finalul-aventurii-in-gara-din-sinaia.jpg	La finalul aventurii, în gara din Sinaia
+101	pe-vf-clabucetul-taurului.jpg	Pe Vf. Clăbucetul Taurului
+102	pe-vf-baiutul.jpg	Pe Vf. Băiuțul
+103	munti-si-prieteni-perfect.jpg	Munți și prieteni. Perfect!
+104	la-cascada-urlatoarea.jpg	La cascada Urlătoarea
+105	in-fata-cabanei-garbova.jpg	În fața cabanei Gârbova
+106	geomont-107.jpg	
+107	traditionala-poza-de-final-de-drumetie-in-gara-din-busteni.jpg	Tradiționala poză de final de drumeție, în gara din Bușteni
+108	verde.jpg	Verde
+109	si-mai-mult-verde.jpg	Și mai mult verde
+110	geomont-111.jpg	
+111	in-cheile-zarnestilor.jpg	În Cheile Zărneștilor
+112	in-apropiere-de-saua-joaca-2.jpg	În apropiere de Șaua Joaca
+113	geomontisti-cu-vechime-2.jpg	Geomontiști cu vechime
+114	moment-de-respiro-cu-ploaia-pe-urmele-noastre-2.jpg	Moment de respiro, cu ploaia pe urmele noastre
+115	cu-geografii-din-anul-3-acum-absolventi-si-masteranzi-geomontisti-die-hard.jpg	Cu geografii din anul 3 (acum absolvenți și masteranzi), geomontiști ”die-hard”
+116	a-doua-editie-a-celebrului-concurs-de-cultura-generala-geografica-si-montana.jpg	A doua ediție a celebrului concurs de cultură generală geografică și montană
+117	reclama-nu-atat-de-ascunsa-la-geomont.jpg	Reclamă nu atât de ascunsă la Geomont!
+118	poza-de-grup-pe-vf-tampa.jpg	Poză de grup pe Vf. Tâmpa
