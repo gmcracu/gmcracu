@@ -1,1 +1,1 @@
-Copiază fișierele HTML în rădăcina proiectului. Copiază doar folderul assets/images/fieldwork/tinutul-buzaului-2023/ în assets/images/fieldwork/.
+Copiază fișierele HTML în rădăcina proiectului. Copiază doar folderul assets/images/geomont/retrospectiva-primii-cinci-ani/ în assets/images/geomont/.
